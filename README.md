@@ -1,2 +1,2 @@
-# MongoDB_Stuff
-Contains Important MongoDB related Stuff
+# mongodb-stuff
+Contains Important MongoDB related commands and code. also contains important notes
